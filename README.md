@@ -1,5 +1,5 @@
 # DC-MSS
-Divide-and-Conquer Moment Scaling Spectrum diffusion analysis
+Divide-and-Conquer Moment Scaling Spectrum transient diffusion analysis
 
 DC-MSS is a transient motion analysis software (written in Matlab) that is designed to:
 
