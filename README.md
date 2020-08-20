@@ -6,4 +6,4 @@ DC-MSS is a transient motion analysis software (written in Matlab) that is desig
 1. Distinguish between free diffusion, confined diffusion, immobility and diffusion with drift.
 2. Segment tracks into subparts exhibiting the different motion classes.
 
-For more information, please see Vega et al., Biophysical Journal 2018 (https://www.cell.com/biophysj/fulltext/S0006-3495(18)30132-2).
+For more information, please see Vega et al., Biophys. J. 2018. Multistep Track Segmentation and Motion Classification for Transient Mobility Analysis. https://pubmed.ncbi.nlm.nih.gov/29539390/.
